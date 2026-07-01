@@ -1,0 +1,15 @@
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\ConsoleAppAssignment\ConsoleAppAssignment\bin\Debug\net10.0\ConsoleAppAssignment.exe
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\ConsoleAppAssignment\ConsoleAppAssignment\bin\Debug\net10.0\ConsoleAppAssignment.deps.json
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\ConsoleAppAssignment\ConsoleAppAssignment\bin\Debug\net10.0\ConsoleAppAssignment.runtimeconfig.json
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\ConsoleAppAssignment\ConsoleAppAssignment\bin\Debug\net10.0\ConsoleAppAssignment.dll
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\ConsoleAppAssignment\ConsoleAppAssignment\bin\Debug\net10.0\ConsoleAppAssignment.pdb
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\ConsoleAppAssignment\ConsoleAppAssignment\obj\Debug\net10.0\ConsoleAppAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\ConsoleAppAssignment\ConsoleAppAssignment\obj\Debug\net10.0\ConsoleAppAssignment.AssemblyInfoInputs.cache
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\ConsoleAppAssignment\ConsoleAppAssignment\obj\Debug\net10.0\ConsoleAppAssignment.AssemblyInfo.cs
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\ConsoleAppAssignment\ConsoleAppAssignment\obj\Debug\net10.0\ConsoleAppAssignment.csproj.CoreCompileInputs.cache
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\ConsoleAppAssignment\ConsoleAppAssignment\obj\Debug\net10.0\ConsoleAppAssignment.sourcelink.json
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\ConsoleAppAssignment\ConsoleAppAssignment\obj\Debug\net10.0\ConsoleAppAssignment.dll
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\ConsoleAppAssignment\ConsoleAppAssignment\obj\Debug\net10.0\refint\ConsoleAppAssignment.dll
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\ConsoleAppAssignment\ConsoleAppAssignment\obj\Debug\net10.0\ConsoleAppAssignment.pdb
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\ConsoleAppAssignment\ConsoleAppAssignment\obj\Debug\net10.0\ConsoleAppAssignment.genruntimeconfig.cache
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\ConsoleAppAssignment\ConsoleAppAssignment\obj\Debug\net10.0\ref\ConsoleAppAssignment.dll
