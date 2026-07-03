@@ -1,0 +1,15 @@
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\Boolean Logic Assignment\Boolean Logic Assignment\bin\Debug\net10.0\Boolean Logic Assignment.exe
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\Boolean Logic Assignment\Boolean Logic Assignment\bin\Debug\net10.0\Boolean Logic Assignment.deps.json
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\Boolean Logic Assignment\Boolean Logic Assignment\bin\Debug\net10.0\Boolean Logic Assignment.runtimeconfig.json
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\Boolean Logic Assignment\Boolean Logic Assignment\bin\Debug\net10.0\Boolean Logic Assignment.dll
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\Boolean Logic Assignment\Boolean Logic Assignment\bin\Debug\net10.0\Boolean Logic Assignment.pdb
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\Boolean Logic Assignment\Boolean Logic Assignment\obj\Debug\net10.0\Boolean Logic Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\Boolean Logic Assignment\Boolean Logic Assignment\obj\Debug\net10.0\Boolean Logic Assignment.AssemblyInfoInputs.cache
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\Boolean Logic Assignment\Boolean Logic Assignment\obj\Debug\net10.0\Boolean Logic Assignment.AssemblyInfo.cs
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\Boolean Logic Assignment\Boolean Logic Assignment\obj\Debug\net10.0\Boolean Logic Assignment.csproj.CoreCompileInputs.cache
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\Boolean Logic Assignment\Boolean Logic Assignment\obj\Debug\net10.0\Boolean Logic Assignment.sourcelink.json
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\Boolean Logic Assignment\Boolean Logic Assignment\obj\Debug\net10.0\Boolean Logic Assignment.dll
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\Boolean Logic Assignment\Boolean Logic Assignment\obj\Debug\net10.0\refint\Boolean Logic Assignment.dll
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\Boolean Logic Assignment\Boolean Logic Assignment\obj\Debug\net10.0\Boolean Logic Assignment.pdb
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\Boolean Logic Assignment\Boolean Logic Assignment\obj\Debug\net10.0\Boolean Logic Assignment.genruntimeconfig.cache
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\Boolean Logic Assignment\Boolean Logic Assignment\obj\Debug\net10.0\ref\Boolean Logic Assignment.dll
