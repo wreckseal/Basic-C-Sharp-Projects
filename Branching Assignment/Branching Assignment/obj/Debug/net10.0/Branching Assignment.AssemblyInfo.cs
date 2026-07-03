@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Branching Assignment")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03f6979e4d3f1a87d558af4dcf9f884c88fc5a7c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+594c83ac8df4008932ac6a2b319633c8787c0b2b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Branching Assignment")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Branching Assignment")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
