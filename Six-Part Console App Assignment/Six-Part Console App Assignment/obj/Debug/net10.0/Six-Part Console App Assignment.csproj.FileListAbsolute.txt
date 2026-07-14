@@ -1,0 +1,15 @@
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\Six-Part Console App Assignment\Six-Part Console App Assignment\bin\Debug\net10.0\Six-Part Console App Assignment.exe
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\Six-Part Console App Assignment\Six-Part Console App Assignment\bin\Debug\net10.0\Six-Part Console App Assignment.deps.json
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\Six-Part Console App Assignment\Six-Part Console App Assignment\bin\Debug\net10.0\Six-Part Console App Assignment.runtimeconfig.json
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\Six-Part Console App Assignment\Six-Part Console App Assignment\bin\Debug\net10.0\Six-Part Console App Assignment.dll
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\Six-Part Console App Assignment\Six-Part Console App Assignment\bin\Debug\net10.0\Six-Part Console App Assignment.pdb
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\Six-Part Console App Assignment\Six-Part Console App Assignment\obj\Debug\net10.0\Six-Part Console App Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\Six-Part Console App Assignment\Six-Part Console App Assignment\obj\Debug\net10.0\Six-Part Console App Assignment.AssemblyInfoInputs.cache
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\Six-Part Console App Assignment\Six-Part Console App Assignment\obj\Debug\net10.0\Six-Part Console App Assignment.AssemblyInfo.cs
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\Six-Part Console App Assignment\Six-Part Console App Assignment\obj\Debug\net10.0\Six-Part Console App Assignment.csproj.CoreCompileInputs.cache
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\Six-Part Console App Assignment\Six-Part Console App Assignment\obj\Debug\net10.0\Six-Part Console App Assignment.sourcelink.json
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\Six-Part Console App Assignment\Six-Part Console App Assignment\obj\Debug\net10.0\Six-Part Console App Assignment.dll
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\Six-Part Console App Assignment\Six-Part Console App Assignment\obj\Debug\net10.0\refint\Six-Part Console App Assignment.dll
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\Six-Part Console App Assignment\Six-Part Console App Assignment\obj\Debug\net10.0\Six-Part Console App Assignment.pdb
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\Six-Part Console App Assignment\Six-Part Console App Assignment\obj\Debug\net10.0\Six-Part Console App Assignment.genruntimeconfig.cache
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\Six-Part Console App Assignment\Six-Part Console App Assignment\obj\Debug\net10.0\ref\Six-Part Console App Assignment.dll
