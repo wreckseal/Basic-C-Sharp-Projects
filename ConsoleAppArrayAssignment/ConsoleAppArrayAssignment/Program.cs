@@ -23,26 +23,30 @@ namespace ConsoleAppArrayAssignment
 
             Console.WriteLine("One-dimensional array of strings");
             Console.WriteLine("Select an array index to view its value (0-9):");
-            bool input1 = int.TryParse(Console.ReadLine(), out int pedalIndex);
+            bool input1 = int.TryParse(Console.ReadLine(), out int pedalIndex); // Parse the input as an integer
 
+            // Validate the input
             if (input1 == true)
             {
-                if(pedalIndex >= pedalArray.Length)
+                if(pedalIndex >= pedalArray.Length) // Check if the index is out of bounds
                     input1 = false;
             }
 
+            // Loop until valid input is received
             while (!input1)
             {
                 Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("Invalid input. Please select a valid index (0-9).");
                 Console.ResetColor();
                 Console.Write("Enter an integer: ");
-                input1 = int.TryParse(Console.ReadLine(), out pedalIndex);
+                input1 = int.TryParse(Console.ReadLine(), out pedalIndex); // Parse the input as an integer
 
-                if (pedalIndex >= pedalArray.Length)
+                // Check if the index is out of bounds
+                if (pedalIndex >= pedalArray.Length) 
                     input1 = false;
             }
 
+            // Display the value at the selected index
             Console.WriteLine($"Value at index {pedalIndex}: {pedalArray[Convert.ToInt32(pedalIndex)]}\n\n");
 
 
@@ -51,25 +55,29 @@ namespace ConsoleAppArrayAssignment
 
             Console.WriteLine("One-dimensional array of integers");
             Console.WriteLine("Select an array index to view its value (0-9):");
-            bool input2 = int.TryParse(Console.ReadLine(), out int index);
+            bool input2 = int.TryParse(Console.ReadLine(), out int index); // Parse the input as an integer
 
+            // Validate the input
             if (input2 == true)
             {
-                if (index >= numbers.Length)
+                if (index >= numbers.Length) // Check if the index is out of bounds
                     input2 = false;
             }
+
+            // Loop until valid input is received
             while (!input2)
             {
                 Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("Invalid input. Please select a valid index (0-9).");
                 Console.ResetColor();
                 Console.Write("Enter an integer: ");
-                input2 = int.TryParse(Console.ReadLine(), out index);
+                input2 = int.TryParse(Console.ReadLine(), out index); // Parse the input as an integer
 
-                if (index >= numbers.Length)
+                // Check if the index is out of bounds
+                if (index >= numbers.Length) 
                     input2 = false;
             }
-
+            // Display the value at the selected index
             Console.WriteLine($"Value at index {index}: {numbers[index]}\n\n");
 
 
@@ -90,26 +98,30 @@ namespace ConsoleAppArrayAssignment
 
             Console.WriteLine("List of strings");
             Console.WriteLine("Select a list index to view its value (0-9):");
-            bool input3 = int.TryParse(Console.ReadLine(), out int listIndex);
+            bool input3 = int.TryParse(Console.ReadLine(), out int listIndex); // Parse the input as an integer
 
+            // Validate the input
             if (input3 == true)
             {
-                if (listIndex >= names.Count)
+                if (listIndex >= names.Count) // Check if the index is out of bounds
                     input3 = false;
             }
 
+            // Loop until valid input is received
             while (!input3)
             {
                 Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("Invalid input. Please select a valid index (0-9).");
                 Console.ResetColor();
                 Console.Write("Enter an integer: ");
-                input3 = int.TryParse(Console.ReadLine(), out listIndex);
+                input3 = int.TryParse(Console.ReadLine(), out listIndex); // Parse the input as an integer
 
+                // Check if the index is out of bounds
                 if (listIndex >= names.Count)
                     input3 = false;
             }
 
+            // Display the value at the selected index
             Console.WriteLine($"Value at index {listIndex}: {names[listIndex]}\n\n");
         }
     }
