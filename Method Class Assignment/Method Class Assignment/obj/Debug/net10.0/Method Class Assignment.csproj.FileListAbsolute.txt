@@ -1,0 +1,15 @@
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\Method Class Assignment\Method Class Assignment\bin\Debug\net10.0\Method Class Assignment.exe
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\Method Class Assignment\Method Class Assignment\bin\Debug\net10.0\Method Class Assignment.deps.json
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\Method Class Assignment\Method Class Assignment\bin\Debug\net10.0\Method Class Assignment.runtimeconfig.json
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\Method Class Assignment\Method Class Assignment\bin\Debug\net10.0\Method Class Assignment.dll
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\Method Class Assignment\Method Class Assignment\bin\Debug\net10.0\Method Class Assignment.pdb
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\Method Class Assignment\Method Class Assignment\obj\Debug\net10.0\Method Class Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\Method Class Assignment\Method Class Assignment\obj\Debug\net10.0\Method Class Assignment.AssemblyInfoInputs.cache
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\Method Class Assignment\Method Class Assignment\obj\Debug\net10.0\Method Class Assignment.AssemblyInfo.cs
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\Method Class Assignment\Method Class Assignment\obj\Debug\net10.0\Method Class Assignment.csproj.CoreCompileInputs.cache
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\Method Class Assignment\Method Class Assignment\obj\Debug\net10.0\Method Class Assignment.sourcelink.json
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\Method Class Assignment\Method Class Assignment\obj\Debug\net10.0\Method Class Assignment.dll
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\Method Class Assignment\Method Class Assignment\obj\Debug\net10.0\refint\Method Class Assignment.dll
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\Method Class Assignment\Method Class Assignment\obj\Debug\net10.0\Method Class Assignment.pdb
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\Method Class Assignment\Method Class Assignment\obj\Debug\net10.0\Method Class Assignment.genruntimeconfig.cache
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\Method Class Assignment\Method Class Assignment\obj\Debug\net10.0\ref\Method Class Assignment.dll
