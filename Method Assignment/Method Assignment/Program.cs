@@ -1,5 +1,4 @@
-﻿using Method_Assignment;
-using System;
+﻿using System;
 
 namespace Method_Assignment
 {
