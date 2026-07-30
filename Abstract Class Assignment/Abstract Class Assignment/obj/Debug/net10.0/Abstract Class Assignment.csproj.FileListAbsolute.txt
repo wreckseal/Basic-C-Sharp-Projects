@@ -1,0 +1,15 @@
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\Abstract Class Assignment\Abstract Class Assignment\obj\Debug\net10.0\Abstract Class Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\Abstract Class Assignment\Abstract Class Assignment\obj\Debug\net10.0\Abstract Class Assignment.AssemblyInfoInputs.cache
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\Abstract Class Assignment\Abstract Class Assignment\obj\Debug\net10.0\Abstract Class Assignment.AssemblyInfo.cs
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\Abstract Class Assignment\Abstract Class Assignment\obj\Debug\net10.0\Abstract Class Assignment.csproj.CoreCompileInputs.cache
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\Abstract Class Assignment\Abstract Class Assignment\obj\Debug\net10.0\Abstract Class Assignment.sourcelink.json
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\Abstract Class Assignment\Abstract Class Assignment\bin\Debug\net10.0\Abstract Class Assignment.exe
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\Abstract Class Assignment\Abstract Class Assignment\bin\Debug\net10.0\Abstract Class Assignment.deps.json
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\Abstract Class Assignment\Abstract Class Assignment\bin\Debug\net10.0\Abstract Class Assignment.runtimeconfig.json
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\Abstract Class Assignment\Abstract Class Assignment\bin\Debug\net10.0\Abstract Class Assignment.dll
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\Abstract Class Assignment\Abstract Class Assignment\bin\Debug\net10.0\Abstract Class Assignment.pdb
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\Abstract Class Assignment\Abstract Class Assignment\obj\Debug\net10.0\Abstract Class Assignment.dll
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\Abstract Class Assignment\Abstract Class Assignment\obj\Debug\net10.0\refint\Abstract Class Assignment.dll
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\Abstract Class Assignment\Abstract Class Assignment\obj\Debug\net10.0\Abstract Class Assignment.pdb
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\Abstract Class Assignment\Abstract Class Assignment\obj\Debug\net10.0\Abstract Class Assignment.genruntimeconfig.cache
+D:\Rex\AOLCC\TACN13E1 - C# and .NET Framework - Part 1\Basic-C-Sharp-Projects\Abstract Class Assignment\Abstract Class Assignment\obj\Debug\net10.0\ref\Abstract Class Assignment.dll
